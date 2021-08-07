@@ -1,0 +1,6 @@
+TrackName:Bad Apple!! feat.nomico
+Artist:Masayoshi Minoshima
+Style:Electronic Dance
+Bpm:138
+Offset:0.155
+Level:3,5,8,14
